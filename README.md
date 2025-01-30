@@ -6,3 +6,8 @@ Lumen Delete all Vehicle script
 
 **Ace Perms EG:** 
 add_ace GROUP staff.cleanup allow
+
+
+Credit:
+
+Author: https://github.com/Whit3XLightning/wld-delallveh
