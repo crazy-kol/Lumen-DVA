@@ -1,13 +1,13 @@
 --------------------------------------
-------Created By Lumen Studios------
---https://github.com/crazy-kol --
+------Created By Whit3Xlightning & Lumen Studios------
+--https://github.com/crazy-kol https://github.com/Whit3Xlightning --
 --------------------------------------
 
 Config = {}
 
 Config = {
 
-    -- This is the command that you will type into chat to execute the script.
+    
 
     restricCommand = true
     -- Setting this to false will allow anyone in the server to use the command. 

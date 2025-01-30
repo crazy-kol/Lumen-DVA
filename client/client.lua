@@ -1,6 +1,6 @@
 --------------------------------------
-------Created By Lumen Studios------
---https://github.com/crazy-kol--
+------Created By Whit3Xlightning & Lumen Studios------
+--https://github.com/crazy-kol https://github.com/Whit3Xlightning --
 --------------------------------------
 
 RegisterNetEvent("wld:delallveh")

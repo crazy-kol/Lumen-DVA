@@ -1,6 +1,6 @@
 # Lumen-DVA
  
-Lumen Delete all Vehcile script
+Lumen Delete all Vehicle script
 
 **This script requires OxLib to work!!!**
 
