@@ -1,7 +1,3 @@
-local authorizedAdmins = {
-    "steam:110000xxxxxxxxxx",  -- Replace with actual Steam hex IDs
-    "steam:110000yyyyyyyyyy"
-}
 
 local webhookURL = "WEBHOOK"  -- Replace with your actual Discord webhook URL
 
