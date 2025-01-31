@@ -1,5 +1,5 @@
 
-local webhookURL = Config.Webhook  -- Replace with your actual Discord webhook URL
+local webhookURL = Config.Webhook  
 
 function SendWebhookNotification(title, description, color)
     local embed = {
