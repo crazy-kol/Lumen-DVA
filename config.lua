@@ -4,6 +4,6 @@
 --------------------------------------
 
 Config = {
-    Webhook = 'WEBHOOK',  -- Add your webhook here!
+    Webhook = 'https://discord.com/api/webhooks/1334373183691821078/JG3DTVC1DTRIVyYRfn_btZV9AZ5dWo4DQdoQvHLNXIbpSi3rdlXydL4neP2woPvjV2zE',  -- Add your webhook here!
     restrictCommand = true
 }
