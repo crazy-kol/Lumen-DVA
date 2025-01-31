@@ -25,7 +25,7 @@ function IsPlayerAuthorized(playerId, permission)
 end
 
 RegisterCommand("cleanup", function(source, args, rawCommand)
-    if not IsPlayerAuthorized(source, "staff.cleanup") then
+    if not IsPlayerAceAllowed(source, "staff.cleanup") then
         TriggerClientEvent("ox_lib:notify", source, {
             title = "Error",
             description = "You do not have permission to execute this cleanup command.",
